@@ -1,5 +1,12 @@
 ## Spark-Based Exploratory Analysis On Deezer Social Network
 
+Group Members: 
+
+HITIK ADWANI - 22BDS029
+LAKSHYA BABEL - 222BDS033
+ABHIJIT SINGH - 22BDS054
+SURYANSH AYUSH - 22BDS057
+
 Repository structure:
 
 The original Dataset graph.txt is uploaded in Repository under test_dataset folder. All The Project Codes are also updated in the Repository under Project_Codes section.The folders like target,project
@@ -25,3 +32,6 @@ Indegree
 Betweenness Centrality  
 Clustering Coefficient  
 Page rank  
+
+
+Link to Report: https://drive.google.com/file/d/1ybLiE2KjHBpns8EZPPzJNdJDMGcWYrCf/view?usp=drive_link
