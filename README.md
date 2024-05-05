@@ -1,4 +1,4 @@
-## Spark-Based Exploratory Analysis 
+## Spark-Based Exploratory Analysis On Deezer Social Network
 
 Repository structure:
 
