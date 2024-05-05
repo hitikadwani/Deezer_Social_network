@@ -17,7 +17,7 @@ This dataset is collected from SNAP which contains 41,773 nodes representing Art
 
 Functionalities:
 
-Indegree
-Betweenness Centrality
-Clustering Coefficient
-Page rank
+Indegree  
+Betweenness Centrality  
+Clustering Coefficient  
+Page rank  
