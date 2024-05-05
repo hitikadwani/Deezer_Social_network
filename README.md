@@ -5,6 +5,10 @@ Repository structure:
 The original Dataset graph.txt is uploaded in Repository under test_dataset folder. All The Project Codes are also updated in the Repository under Project_Codes section.The folders like target,project
 contain important dependencies to make all these codes smoothly.
 
+Configuration
+
+We have used Apache Spark for this Project and our Primary Programming Language  is Scala. We have build.sbt which is used to run Scala Codes and it contains multiple dependencies like Graph-X,SQl,SPARK-CORE etc. We have also used Hadoop Distributed File System (HDFS) as Input Storage system on two nodes.HDFS is used for inputing data to the codes and then jar file is created.We are using built-in plugin in IntelliJ IDE to make it run.
+
 Introduction:
 
 This Dataset is acquired from Deezer in November 2017. The Dataset comprises information regarding Interactions of Users on Deezer Platform from Romania. This network helps us to understand how users interact,
