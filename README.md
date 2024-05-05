@@ -9,8 +9,8 @@ SURYANSH AYUSH - 22BDS057
 
 Repository structure:
 
-The original Dataset graph.txt is uploaded in Repository under test_dataset folder. All The Project Codes are also updated in the Repository under Project_Codes section.The folders like target,project
-contain important dependencies to make all these codes smoothly.
+The original Dataset graph.txt is uploaded in Repository under test_dataset folder. All the Project Codes are also updated in the Repository under Project_Codes section.The folders like target,project
+contain important dependencies to make all these codes run smoothly.
 
 Configuration
 
@@ -18,7 +18,7 @@ We have used Apache Spark for this Project and our Primary Programming Language 
 
 Introduction:
 
-This Dataset is acquired from Deezer in November 2017. The Dataset comprises information regarding Interactions of Users on Deezer Platform from Romania. This network helps us to understand how users interact,
+This Dataset is acquired from Deezer,a Music Streaming Platform, in November 2017. The Dataset comprises information regarding Interactions of Users on Deezer Platform from Romania. This network helps us to understand how users interact,
 by analyzing key metrics like Betweenness Centrality and Clustering Coefficient, Page Rank and Indegree. This will help us understand how people connect and share music on Deezer,a music streaming Platform.
 
 
